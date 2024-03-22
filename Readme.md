@@ -1,3 +1,9 @@
+#Pasos para instalar proyecto
+Se requiere Angular 14 en adelante y nodeJs.
+Ejecutar en cada uno de los proyectos: `npm install`.
+Ejecutar en cada uno de los proyectos: `ng serve mf-host` `ng serve mf-contabilidad`.
+
+#Pasos configurar MicroFront
 # Crear Proyectos
 
 ng new mf-shell
